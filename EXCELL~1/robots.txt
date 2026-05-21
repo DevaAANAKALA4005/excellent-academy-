@@ -1,0 +1,11 @@
+# robots.txt for Excellent Academy - Best School in Mandleshwar
+# https://excellentacademy.example.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://excellentacademy.example.com/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
